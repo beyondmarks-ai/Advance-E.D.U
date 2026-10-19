@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Local environment variables & secrets (NEVER commit)
+.env
+.env.local
+.env.*.local
+
+# Local video uploads & generated transcript caches
+.local-uploads/
+
+# TypeScript & OS artifacts
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+Thumbs.db
