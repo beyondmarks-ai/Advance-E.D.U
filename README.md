@@ -110,3 +110,10 @@ Open **[http://localhost:3000](http://localhost:3000)** in your browser.
 ├── package.json
 └── tsconfig.json
 ```
+
+<!-- beyond-marks-credit:start -->
+---
+### Built by Beyond Marks AI Academy
+
+Developed by **Rakesh Kumar** at [Beyond Marks AI Academy](https://beyondmarks.ai).
+<!-- beyond-marks-credit:end -->
